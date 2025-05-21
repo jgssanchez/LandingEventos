@@ -35,7 +35,7 @@ const ServicesSection = () => {
       title: "Baby Showers",
       description: "Celebra la llegada con dulzura",
       fullDescription:
-        "Creamos ambientes acogedores y cálidos para celebrar la llegada del bebé. Incluimos juegos divertidos, decoración temática, souvenirs, catering personalizado y detalles que emocionan a los futuros padres y a sus invitados.",
+        "Creamos ambientes acogedores y cálidos para celebrar la llegada del bebé. Momentos únicos, decoración encantadora, juegos inolvidables y detalles especiales que emocionan a los futuros padres y sorprenden a sus invitados.",
       image:
         "https://images.pexels.com/photos/3593434/pexels-photo-3593434.jpeg",
     },
